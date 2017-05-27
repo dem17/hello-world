@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+I just want to learn to code!
+In many languages
